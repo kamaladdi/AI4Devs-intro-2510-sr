@@ -1,31 +1,38 @@
-# Reverse string EN
+### 🎯 **Prompt optimizado para ChatGPT o cualquier modelo de código**
 
-Create a **web page with JavaScript logic that reverses the order of a string**.
-
-Example: if I input `AI4Devs`, it should return `sveD4IA`.
-
-Do it using the seed files `index.html` and `script.js` provided in the template folder.
-
-Use a chatbot like ChatGPT or Gemini, not a code assistant in an IDE like Github Copilot.
-
-To submit, make a pull request that includes a folder copied from the template, named `reversestring-initials` (for example, `reversestring-ARM`). It must include not only the generated code but also, importantly, **the prompt used and the chatbot utilized** in `prompts.md`. If you used more than one prompt to reach a suitable solution, include them all in order. Also, include the final prompt in the pull request comment.
-
-Good luck!
-
-The content of this repository is part of the AI4Devs program by LIDR.co. You can find all the information on the official website [https://lidr.co/ia-devs](https://www.lidr.co/ia-devs)
-
-# Reverse string ES
-
-Crea una **página web con lógica en javascript que invierta el orden de una cadena de texto**. 
-
-Ejemplo: si introduzco `AI4Devs` devuelve `sveD4IA`. 
-
-Hazlo apoyado en el seed `index.html` y `script.js` que proporcionamos dentro de la carpeta template
-
-Utiliza un chatbot, como ChatGPT o Gemini, no un asistente de código en IDE como Github Copilot.
-
-Para entregar, haz una pull request que incluya una carpeta copiada de template, con el nombre `reversestring-iniciales` (ejemplo `reversestring-ARM`). Debe incluir no solo el código generado, sino también, fundamental, **el prompt utilizado y el chatbot utilizado** en `prompts.md`. Si has usado más de un prompt hasta llegar a una solución adecuada, añade todos en orden. Añade además el prompt final en el comentario del pull request.
-
-¡Éxitos!
-
-El contenido de este repositorio es parte del programa AI4Devs de LIDR.co. Puedes encontrar toda la información en la página oficial [https://lidr.co/ia-devs](https://www.lidr.co/ia-devs)
+> **Rol:** Eres un desarrollador frontend experto en HTML, CSS y JavaScript.
+> Tu tarea es generar código limpio, funcional y listo para usar dentro de un proyecto web estándar.
+>
+> **Instrucción:**
+> Crea una **página web simple** que invierta el orden de una cadena de texto introducida por el usuario.
+>
+> **Requisitos técnicos:**
+>
+> 1. Crea un archivo `index.html` con:
+>
+>    * Un campo de texto para introducir la cadena.
+>    * Un botón que ejecute la acción de invertir el texto.
+>    * Un contenedor (por ejemplo, un `<p>`) donde se mostrará el resultado.
+> 2. Crea un archivo `script.js` que:
+>
+>    * Capture el texto ingresado.
+>    * Invierta el orden de los caracteres.
+>    * Muestre el resultado en pantalla.
+> 3. El resultado de la entrada `AI4Devs` debe ser exactamente `sveD4IA`.
+> 4. Usa un diseño sencillo y limpio (HTML + CSS básico, sin frameworks).
+> 5. Asegúrate de que el código sea totalmente funcional y **listo para copiar y ejecutar** sin modificaciones.
+>
+> **Salida esperada:**
+>
+> * Código completo de `index.html`
+> * Código completo de `script.js`
+>
+> **Formato de respuesta:**
+>
+> ```
+> ### index.html
+> [código aquí]
+>
+> ### script.js
+> [código aquí]
+> ```
